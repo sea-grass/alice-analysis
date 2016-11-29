@@ -1,0 +1,31 @@
+{
+  "name": "threejs-alice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "three": "~0.82.1",
+    "express": "~4.14.0",
+    "lodash": "~4.17.2",
+    "babel-polyfill": "~6.16.0",
+    "d3": "~4.4.0"
+  },
+  "devDependencies": {
+    "webpack": "~1.13.3",
+    "webpack-dev-server": "~1.16.2",
+    "babel-core": "~6.18.2",
+    "babel-loader": "~6.2.8",
+    "babel-preset-es2015": "~6.18.0",
+    "json-loader": "~0.5.4",
+    "raw-loader": "~0.5.1",
+    "file-loader": "~0.9.0",
+    "style-loader": "~0.13.1",
+    "css-loader": "~0.26.0",
+    "es6-promise": "~4.0.5"
+  }
+}
